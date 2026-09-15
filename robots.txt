@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://almaspaytakht1.github.io/goharshnasi/sitemap.xml
